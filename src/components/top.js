@@ -33,6 +33,7 @@ const Top = () => {
         width:100%;
         height:800px;
         background-color:white;
+        position:relative;
     `
 
     const Parallaximg = () => {
