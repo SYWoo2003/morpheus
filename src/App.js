@@ -1,11 +1,11 @@
 import React from 'react';
 
-import Randomtext from './components/Randomtext'
+import Top from './components/top';
 
 function App() {
   return (
     <div>
-      <Randomtext />
+      <Top />
     </div>
   );
 }
