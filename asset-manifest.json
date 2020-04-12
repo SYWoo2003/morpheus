@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.386cb282.chunk.js",
-    "main.js.map": "/static/js/main.386cb282.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e830bb82.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e830bb82.js.map",
-    "static/js/2.8d45532c.chunk.js": "/static/js/2.8d45532c.chunk.js",
-    "static/js/2.8d45532c.chunk.js.map": "/static/js/2.8d45532c.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.e0bd749a396cabaef2921892c64b4111.js": "/precache-manifest.e0bd749a396cabaef2921892c64b4111.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.8d45532c.chunk.js.LICENSE.txt": "/static/js/2.8d45532c.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/static/media/logo.2c238dd1.png",
-    "static/media/top.gif": "/static/media/top.e5761355.gif"
+    "main.css": "/morpheus/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/morpheus/static/js/main.ec8829c4.chunk.js",
+    "main.js.map": "/morpheus/static/js/main.ec8829c4.chunk.js.map",
+    "runtime-main.js": "/morpheus/static/js/runtime-main.7831b759.js",
+    "runtime-main.js.map": "/morpheus/static/js/runtime-main.7831b759.js.map",
+    "static/js/2.4814832d.chunk.js": "/morpheus/static/js/2.4814832d.chunk.js",
+    "static/js/2.4814832d.chunk.js.map": "/morpheus/static/js/2.4814832d.chunk.js.map",
+    "index.html": "/morpheus/index.html",
+    "precache-manifest.51954986536c826ff838beca17c3547a.js": "/morpheus/precache-manifest.51954986536c826ff838beca17c3547a.js",
+    "service-worker.js": "/morpheus/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/morpheus/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4814832d.chunk.js.LICENSE.txt": "/morpheus/static/js/2.4814832d.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/morpheus/static/media/logo.2c238dd1.png",
+    "static/media/top.gif": "/morpheus/static/media/top.e5761355.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.e830bb82.js",
-    "static/js/2.8d45532c.chunk.js",
+    "static/js/runtime-main.7831b759.js",
+    "static/js/2.4814832d.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.386cb282.chunk.js"
+    "static/js/main.ec8829c4.chunk.js"
   ]
 }
