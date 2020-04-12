@@ -50,7 +50,7 @@ const Top = () => {
             <Logoimg src={logo} alt='' />
             <ParallaxProvider>
                 <Parallaximg />
-                <Parallax className="custom-class" y={[30, -40]} >
+                <Parallax className="custom-class" y={[90, -90]} >
                     <Whitebox />
                 </Parallax>
             </ParallaxProvider>
