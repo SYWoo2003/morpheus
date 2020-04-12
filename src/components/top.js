@@ -10,9 +10,10 @@ const Top = () => {
 
     const Logoimg = styled.img`
         position:fixed;
-        left:2%;
-        top:3%;
-        width:60px;
+        left:1%;
+        top:2%;
+        min-width:40px;
+        width:3%;
         z-index:1;
     `
 
